@@ -1,4 +1,4 @@
-# Pewett Hackard Analysis
+# Pewlett Hackard Analysis
 
 ## Purpose
 The purpose of this analysis was to compile the number of workers reaching retirement age at Pewlett Hackard as well as other statistics surrounding that, including their official work title, their birth dates, and their active work dates. Then, I used these data to determine which employees were eligible for a mentorship program. The goal of gathering this information is to help the company prepare for the "silver tsunami," or the collective retirement of many employees at once. The company will use this data to identify how many employees, as well as the title that they hold, will be retiring in the upcoming years.
